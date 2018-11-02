@@ -81,7 +81,7 @@ int main(int argc, const char * argv[])
     Shader simpleShader("shaders/simpleVertexShader.vert", "shaders/simpleFragmentShader.frag");
     
     // set up vertex data (and buffer(s)) and configure vertex attributes
-    int vertsX = 2;
+    int vertsX = 7;
     int vertsY = 5;
     if (vertsX < 2 || vertsY < 2)
     {
