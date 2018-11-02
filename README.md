@@ -1,2 +1,2 @@
 # OpenGLPolyPlane
-Creates a poly plane with any number of poly splits
+Creates and renders a poly plane in wireframe with any number of vertex rows and columns
